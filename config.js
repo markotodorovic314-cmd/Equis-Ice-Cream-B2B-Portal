@@ -15,7 +15,7 @@ window.PORTAL_CONFIG = {
   "heroImage1": "assets/vanilla.webp",
   "heroImage2": "assets/honeycomb.webp",
   "heroCaption": "Crafted for your customers",
-  "buyer": "The Harbour Café",
+  "buyer": "Riverside Dessert Parlour",
   "accountType": "Hospitality partner",
   "categories": [
     "All products",
